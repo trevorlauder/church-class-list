@@ -1,0 +1,7 @@
+.DS_Store
+.docker_env
+.vscode
+.venv
+church_class_list/*.yml
+dist/
+data/
