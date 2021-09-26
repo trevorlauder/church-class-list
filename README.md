@@ -1,6 +1,10 @@
 # Church Class List
 
-When syncing Member Tools, it includes class information in the membership data.  However, it doesn't allow me to see the class membership under Organizations.  I'm assuming this is a bug as I can see class information for individual members in the Directory. This project retrieves the data and outputs the members of the class defined in the config.
+When syncing [Member Tools](https://apps.apple.com/us/app/lds-tools/id391093033), it includes class information in the membership data.  However, it doesn't allow me to see the class membership under Organizations.
+
+I'm assuming this is a bug as I can see class information for individual members in the Directory.
+
+This project retrieves the data and outputs the members of the class you enter.  It can be run in Docker or on iOS with [Pythonista](https://omz-software.com/pythonista/).
 
 ## Building
 
