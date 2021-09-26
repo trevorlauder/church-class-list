@@ -1,6 +1,6 @@
 # Church Class List
 
-Class data for unit members is downloaded when using Member Tools but it won't allow me to see the class membership.  I'm assuming this is a bug as class information for individual members can be seen while viewing the Directory.  This project retrieves the data and outputs the members of the class defined in the config.
+When syncing Member Tools, it includes class information in the membership data.  However, it doesn't allow me to see the class membership under Organizations.  I'm assuming this is a bug as I can see class information for individual members in the Directory. This project retrieves the data and outputs the members of the class defined in the config.
 
 ## Building
 
