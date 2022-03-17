@@ -1,4 +1,4 @@
-FROM python:3.10.2-slim AS base
+FROM python:3.10.3-slim AS base
 
 ENV PIP_NO_CACHE_DIR=off \
     PYTHONDONTWRITEBYTECODE=1
