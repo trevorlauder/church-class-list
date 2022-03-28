@@ -13,6 +13,6 @@ pyyaml = "^6.0"
 requests = "^2.27"
 
 [tool.poetry.dev-dependencies]
-black = "^22.1"
+black = "^22.3"
 flake8 = "^4.0"
 isort = "^5.10"
