@@ -10,7 +10,7 @@ authors = ["Trevor Lauder <trevor@lauderfamily.ca>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 pyyaml = "^6.0"
-requests = "^2.27"
+requests = "^2.28"
 
 [tool.poetry.dev-dependencies]
 black = "^22.3"
